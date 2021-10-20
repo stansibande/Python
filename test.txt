@@ -1,4 +1,5 @@
 sample text here
+<<<<<<< HEAD
 more text
 even more sample text
 even more and more samples
@@ -7,3 +8,5 @@ fine last one
 wait
 one last one
 last last one
+=======
+>>>>>>> parent of 75da743 (The Second Commit)
